@@ -21,7 +21,7 @@ O código está disponível no arquivo `main.ino`.
 | ------------------------------------------ | ---------: | ----------------------- |
 | Arduino Uno                                |          1 | -                       |
 | LED (5 mm, Cores vemelho, amarelo e verde) |         3x | Use um resistor por LED |
-| Jumpers (macho-macho ou conforme montagem) |         9x | Cabos para conexões     |
+| Jumpers (7 macho-macho e 6 macho-femea)    |        13x | Cabos para conexões     |
 | Resistores (330 ohms)                      |         3x |                         |
 | Protoboard                                 |          1 | -                       |
 
